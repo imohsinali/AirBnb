@@ -37,7 +37,7 @@
   font-weight: 600 !important;
 }
 .banner__info > button:hover {
-  background-color: white;
+  background-color: #f2f2f2;
   color: #ff7779;
 }
 .banner__info > h5 {
